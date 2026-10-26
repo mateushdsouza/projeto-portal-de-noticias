@@ -1,15 +1,34 @@
 # Portal de Notícias
 
-Bem-vindo ao meu projeto de Portal de Notícias! Este é um projeto simples, desenvolvido utilizando apenas HTML e CSS, que simula a estrutura e o layout de um site de notícias.
+Interface editorial com manchetes, imagens e seções de notícias organizadas em grid.
 
-## Visão Geral do Projeto
+## Tecnologias
 
-O objetivo deste projeto foi praticar e aprimorar conhecimentos em HTML para estruturação semântica e CSS para estilização e responsividade básica. Ele apresenta diferentes seções de notícias, um cabeçalho com navegação e um rodapé.
+HTML e CSS Grid.
 
-## Tecnologias Utilizadas
+## Como visualizar
 
-* HTML5
-* CSS3
+```sh
+git clone https://github.com/mateushdsouza/projeto-portal-de-noticias.git
+cd projeto-portal-de-noticias
+```
 
-## Demonstração (Screenshot)
-![Imagem](main/Cover.png)
+Abra [index.html](index.html) no navegador. Não é necessário instalar dependências. Fontes externas, quando utilizadas, precisam de internet.
+
+## Organização
+
+- [index.html](index.html): estrutura da página.
+- [styles/](styles/): estilos.
+- [assets/](assets/): imagens e ícones.
+
+## Estado atual e limitações
+
+O conteúdo é estático. Busca, navegação de categorias e atualização de notícias não possuem backend.
+
+## Aprendizado
+
+Estruturação de conteúdo em HTML, organização de estilos e composição visual. A presença de uma interface não representa um serviço completo em produção.
+
+## Créditos
+
+Implementação de estudo mantida por [Mateus Henrique de Souza](https://github.com/mateushdsouza). Imagens, marcas e materiais de referência mantêm a autoria de seus respectivos titulares.
