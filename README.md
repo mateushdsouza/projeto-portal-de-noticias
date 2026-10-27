@@ -1,12 +1,19 @@
 # Portal de Notícias
 
+## Acessar no navegador
+
+**[Abrir o projeto](https://mateushdsouza.github.io/projeto-portal-de-noticias/)**
+
+Não é necessário clonar o repositório, instalar ferramentas ou baixar arquivos para visualizar a versão publicada.
+
+
 Interface editorial com manchetes, imagens e seções de notícias organizadas em grid.
 
 ## Tecnologias
 
 HTML e CSS Grid.
 
-## Como visualizar
+## Desenvolvimento local (opcional)
 
 ```sh
 git clone https://github.com/mateushdsouza/projeto-portal-de-noticias.git
